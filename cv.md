@@ -39,7 +39,7 @@ for (int i = 0; i < size - 1; i++) {
  
 ## Experience  
 * I have several projects on my GitHub (https://github.com/Kowa1ak?tab=repositories) 
-* Moreover, I have experience in creating promotional materials  
+* Moreover, I have experience in creating promotional materials.
  
 ## Languages 
 * Russian 

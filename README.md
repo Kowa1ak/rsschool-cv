@@ -1,1 +1,2 @@
-# (https://Kowa1ak.github.io/rsschool-cv/cv)
+# README.md
+https://Kowa1ak.github.io/rsschool-cv/cv

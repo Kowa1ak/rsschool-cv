@@ -17,55 +17,6 @@
 * C++ (basics) 
 * Assembler (basics) 
 * After Effects and Premiere Pro (basics) 
- 
-## Code Example  
-C++ 
-# Branislau Yanchuk 
- 
-## My Contact Info 
-* Address: Sharangovicha Street, Minsk, Belarus 
-* Phone: +375445319945 
-* E-mail: bron85226@gmail.com 
-* GitHub: SoTokcuk 
-* Telegram: @sotokcuk 
- 
-## A little about myself 
-*I am 18 years old. At the moment I am a first-year student (you could say already second-year) at BSU in Applied Informatics. I chose this specialty because of my interest in mathematics and programming. Also I'm interested in design, so I often spend my time creating works in Adobe Photoshop and After Effects.* 
- 
-## Skills 
-* HTML 
-* CSS 
-* Version control with Git 
-* C++ (basics) 
-* Assembler (basics) 
-* Photoshop 
-* Blender 
-* After Effects and Premiere Pro (basics) 
- 
-## Code Example  
-C++ 
-# Branislau Yanchuk 
- 
-## My Contact Info 
-* Address: Sharangovicha Street, Minsk, Belarus 
-* Phone: +375445319945 
-* E-mail: bron85226@gmail.com 
-* GitHub: SoTokcuk 
-* Telegram: @sotokcuk 
- 
-## A little about myself 
-*I am 18 years old. At the moment I am a first-year student (you could say already second-year) at BSU in Applied Informatics. I chose this specialty because of my interest in mathematics and programming. Also I'm interested in design, so I often spend my time creating works in Adobe Photoshop and After Effects.* 
- 
-## Skills 
-* HTML 
-* CSS 
-* Version control with Git 
-* C++ (basics) 
-* Assembler (basics) 
-* Photoshop 
-* Blender 
-* After Effects and Premiere Pro (basics) 
- 
 ## Code Example  
 C++ 
 for (int i = 0; i < size - 1; i++) {
